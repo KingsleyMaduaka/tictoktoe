@@ -1,0 +1,15 @@
+C:\Users\makel\source\repos\GameCode1\bin\Debug\net7.0\GameCode1.exe
+C:\Users\makel\source\repos\GameCode1\bin\Debug\net7.0\GameCode1.deps.json
+C:\Users\makel\source\repos\GameCode1\bin\Debug\net7.0\GameCode1.runtimeconfig.json
+C:\Users\makel\source\repos\GameCode1\bin\Debug\net7.0\GameCode1.dll
+C:\Users\makel\source\repos\GameCode1\bin\Debug\net7.0\GameCode1.pdb
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.csproj.AssemblyReference.cache
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.AssemblyInfoInputs.cache
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.AssemblyInfo.cs
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.csproj.CoreCompileInputs.cache
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.dll
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\refint\GameCode1.dll
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.pdb
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\GameCode1.genruntimeconfig.cache
+C:\Users\makel\source\repos\GameCode1\obj\Debug\net7.0\ref\GameCode1.dll
